@@ -55,7 +55,7 @@ Input: "resource/Graph1.txt" or "resource/Graph2.txt"
 
 
 
-Graph File:
+Graph File Example(resource/graph1):
 
 
 Vertices		
