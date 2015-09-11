@@ -1,0 +1,20 @@
+i.		Completed every part.
+
+ii.		No bugs
+
+iii.	IMPORTANT: For the sake of this homework. 
+								 This program only works for keys of unsigned int and string type.
+
+
+			1. Open terminal and type make clean(to delete old object files) just in case.
+			2. Type make all.
+			3. For analysis data, type: ./testProbe documents/words.txt 
+			3. For word puzzle, type: ./testMaps documents/words.txt 
+			4. For analysis, type: ./testMyHashMap documents/words.txt <initial hash table size>
+			5. The analysis is contained in folder called "Analysis", which are in formats:
+
+						 Microsoft Word 97-2003
+						 OpenDocument text
+					
+
+iv.		input file : document/words.txt
