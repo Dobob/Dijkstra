@@ -1,7 +1,6 @@
 Uploading from gedit text program has caused some spacing and tabbing issues in the code, but shouldn't stop the code from running.
 
 DISCLAIMER:
-This is created as a college homework exercise.
 The priority binomial queue used in these codes are based on the binomial queue and hashtable code taken from Mark Allen Weiss' Data Structures and Algorithm Analysis in C++ textbook. I rewrote and added methods and data, and combined the two programs to create the priority binomial queue. And with the priority binomial queue, I created an algorithm for Dijkstra's shortest path solution for a graph, read from a text file(see below for an example).
 
 Weiss' original codes can be found at: http://users.cis.fiu.edu/~weiss/dsaa_c++3/code/
